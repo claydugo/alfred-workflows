@@ -28,3 +28,7 @@ Clears clipboard, I use this with the lastpass workflow so I dont have passwords
 `vol X`
 
 Set volume to a value between 0-10. 
+
+`mute`
+
+Set volume to 0
