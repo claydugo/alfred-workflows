@@ -1,5 +1,5 @@
 # alfred-workflows
-Basic workflows
+Basic workflows, I recently updated to Alfred 4.0 so these will no longer work under that version. You can get 3.0 workflows from previous commits
 
 ### Important Text
 
